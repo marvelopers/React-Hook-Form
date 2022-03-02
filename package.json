@@ -24,7 +24,7 @@
     "react-scripts": "3.4.1",
     "ssri": "^8.0.1",
     "tmpl": "^1.0.5",
-    "url-parse": "^1.5.10",
+    "url-parse": "^1.5.9",
     "yup": "^0.29.1"
   },
   "scripts": {
